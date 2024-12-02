@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #141414;
+  color: #fff;
+}
+
+.navbar {
+  text-align: center;
+  padding: 20px;
+  background-color: #000;
+}
+
+.navbar h1 {
+  font-size: 2em;
+  color: #e50914;
+}
+
+.navbar h2 {
+  font-size: 1.2em;
+}
+
+.content {
+  max-width: 800px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.poster img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+}
+
+.episodes h3 {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.episodes ul {
+  list-style: none;
+  padding: 0;
+}
+
+.episodes ul li {
+  margin: 10px 0;
+}
+
+.episodes ul li a {
+  color: #e50914;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+.episodes ul li a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+  margin-top: 20px;
+}
+
+  
